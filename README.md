@@ -47,6 +47,6 @@ Through these projects, I developed practical experience in identifying security
 
 ---
 
-**Author:** Raj Rathod
+**Author:** Rajendra Rathod
 
 **Domain:** Cybersecurity | Threat Modeling | Risk Assessment | Security Architecture
